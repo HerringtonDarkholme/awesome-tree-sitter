@@ -31,7 +31,7 @@ TODO
 
 * Diff: https://difftastic.wilfred.me.uk/
 
-* Search/Lint: ast-grep.github.io/
+* Search/Lint: https://ast-grep.github.io/
 
 * Formatting: https://topiary.tweag.io/
 
