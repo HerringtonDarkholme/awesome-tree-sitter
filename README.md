@@ -33,6 +33,8 @@ TODO
 
 * Search/Lint: https://ast-grep.github.io/
 
+* Search: https://github.com/BrianHicks/tree-grepper
+
 * Formatting: https://topiary.tweag.io/
 
 * Analysis: https://github.com/microsoft/vscode-anycode
