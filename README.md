@@ -30,6 +30,7 @@ TODO
 ## Tools
 
 * Diff: https://difftastic.wilfred.me.uk/
+* Diff: https://github.com/afnanenayet/diffsitter
 
 * Search/Lint: https://ast-grep.github.io/
 
