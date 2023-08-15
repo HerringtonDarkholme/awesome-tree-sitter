@@ -42,7 +42,9 @@ TODO
 
 * Analysis: https://github.com/microsoft/vscode-anycode
 
-* Analysis: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence 
+* Analysis: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence
+
+* Source Code Representation: https://github.com/IBM/tree-sitter-codeviews
 
 * SAST: https://semgrep.dev/
 
@@ -68,6 +70,7 @@ TODO
 ## Research
 
 * https://dl.acm.org/doi/fullHtml/10.1145/3487019.3487022
+* TreeSitter based Customized Source Code Representations https://arxiv.org/abs/2307.04693
 
 ## Talks
 
