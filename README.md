@@ -40,6 +40,8 @@ TODO
 
 * Analysis: https://github.com/microsoft/vscode-anycode
 
+* Analysis: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence 
+
 * SAST: https://semgrep.dev/
 
 * Graph: https://github.com/tree-sitter/tree-sitter-graph
