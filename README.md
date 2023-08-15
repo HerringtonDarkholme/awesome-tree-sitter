@@ -19,7 +19,9 @@ TODO
 
 ## Editors
 
-* NeoVim: https://neovim.io/doc/user/treesitter.html
+* NeoVim
+  * https://neovim.io/doc/user/treesitter.html
+  * https://github.com/nvim-treesitter/nvim-treesitter
 
 * Emacs: https://emacs-tree-sitter.github.io/
 
