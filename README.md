@@ -29,6 +29,14 @@ TODO
 
 * Zed: https://zed.dev/
 
+* Helix: https://github.com/helix-editor/helix 
+
+* Monaco
+  * https://github.com/Menci/monaco-tree-sitter
+ 
+## Install tree-sitter 
+* * https://github.com/tspm-io/tspm
+
 ## Tools
 
 * Diff: https://difftastic.wilfred.me.uk/
@@ -38,11 +46,15 @@ TODO
 
 * Search: https://github.com/BrianHicks/tree-grepper
 
+* Search: https://github.com/maxbrunsfeld/tree-tags
+
 * Formatting: https://topiary.tweag.io/
 
 * Analysis: https://github.com/microsoft/vscode-anycode
 
 * Analysis: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence
+
+* Analysis: https://github.com/bstee615/tree-climber
 
 * Source Code Representation: https://github.com/IBM/tree-sitter-codeviews
 
@@ -52,9 +64,25 @@ TODO
 
 * StackGraph: https://github.blog/2021-12-09-introducing-stack-graphs/
 
+* Code Manipulation: https://github.com/mizlan/iswap.nvim
+
+* Code Manipulation/Text Object: https://github.com/nvim-treesitter/nvim-treesitter-textobjects
+
+* Code Selection: https://github.com/mfussenegger/nvim-treehopper
+
+* Code Fold: https://github.com/junyi-hou/tree-sitter-fold
+
+* Documentation: https://github.com/sourcegraph/doctree
+
 ## Tutorials
 
 * https://siraben.dev/2022/03/01/tree-sitter
+* Q&A: https://github.com/sogaiu/ts-questions
+
+## Playground
+* https://tspm.io/
+* https://tree-sitter.github.io/tree-sitter/playground
+* https://ast-grep.github.io/playground.html
 
 ## Articles
 
