@@ -70,7 +70,11 @@ TODO
 
 * Code Selection: https://github.com/mfussenegger/nvim-treehopper
 
+* Code Movement: https://github.com/haritkapadia/ts-movement
+
 * Code Fold: https://github.com/junyi-hou/tree-sitter-fold
+
+* Structural Edit: https://github.com/ethan-leba/tree-edit/
 
 * Documentation: https://github.com/sourcegraph/doctree
 
