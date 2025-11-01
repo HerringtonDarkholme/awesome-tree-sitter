@@ -29,18 +29,23 @@ TODO
 
 * Zed: https://zed.dev/
 
-* Helix: https://github.com/helix-editor/helix 
+* Helix: https://github.com/helix-editor/helix
 
 * Monaco
   * https://github.com/Menci/monaco-tree-sitter
- 
-## Install tree-sitter 
+
+* Pulsar:
+  * https://pulsar-edit.dev/
+
+## Install tree-sitter
 * * https://github.com/tspm-io/tspm
 
 ## Tools
 
 * Diff: https://difftastic.wilfred.me.uk/
 * Diff: https://github.com/afnanenayet/diffsitter
+
+* Conflict Merger: https://mergiraf.org/
 
 * Search/Lint: https://ast-grep.github.io/
 
@@ -55,6 +60,16 @@ TODO
 * Analysis: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence
 
 * Analysis: https://github.com/bstee615/tree-climber
+
+* Analysis: https://github.com/zizmorcore/zizmor
+
+* Secrete Scan: https://github.com/mongodb/kingfisher
+
+* SAST: https://github.com/PurCL/RepoAudit
+
+* SAST: https://github.com/trailofbits/buttercup
+
+* SAST: https://github.com/noperator/slice
 
 * Source Code Representation: https://github.com/IBM/tree-sitter-codeviews
 
