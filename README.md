@@ -45,6 +45,8 @@ TODO
 * Diff: https://difftastic.wilfred.me.uk/
 * Diff: https://github.com/afnanenayet/diffsitter
 
+* Code Highlight: https://github.com/bearcove/arborium
+
 * Conflict Merger: https://mergiraf.org/
 
 * Search/Lint: https://ast-grep.github.io/
@@ -102,6 +104,7 @@ TODO
 * https://tspm.io/
 * https://tree-sitter.github.io/tree-sitter/playground
 * https://ast-grep.github.io/playground.html
+* Code highlight playground https://arborium.bearcove.eu/
 
 ## Articles
 
