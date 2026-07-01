@@ -62,6 +62,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Code manipulation: https://github.com/haritkapadia/ts-movement — navigate code by syntax units.
 - Code manipulation: https://github.com/junyi-hou/tree-sitter-fold — folding driven by parse trees.
 - Code manipulation: https://github.com/ethan-leba/tree-edit/ — structural editing via Tree-sitter.
+- Code manipulation: https://github.com/Goldziher/uncomment — strip comments from source across 30+ languages via Tree-sitter queries.
 - Conflict merge: https://mergiraf.org/ — semantic merge tool.
 - Diff: https://difftastic.wilfred.me.uk/ — syntax-aware diff viewer.
 - Diff: https://github.com/afnanenayet/diffsitter — Tree-sitter based diffing.
