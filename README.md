@@ -40,6 +40,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Rust: https://docs.rs/tree-sitter — Rust crate for parsers.
 - Python: https://github.com/tree-sitter/py-tree-sitter — Python bindings.
 - Go: https://github.com/smacker/go-tree-sitter — Go bindings.
+- Multi-language pack: https://github.com/xberg-io/tree-sitter-language-pack — 300+ pre-built grammars with unified bindings for Python, Node.js, Rust, Go, Java, Ruby, PHP, C#, and more.
 
 ## Editors
 - Emacs: https://emacs-tree-sitter.github.io/ — Tree-sitter integration and modes.
