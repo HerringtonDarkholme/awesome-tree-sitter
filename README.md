@@ -55,6 +55,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Analysis / navigation: https://github.com/BloopAI/bloop/tree/main/server/bleep/src/intelligence — semantic search backed by Tree-sitter.
 - Analysis / navigation: https://github.com/bstee615/tree-climber — structural code analysis.
 - Analysis / navigation: https://github.com/zizmorcore/zizmor — static analysis via Tree-sitter.
+- Analysis / navigation: https://github.com/Goldziher/basemind — Code-map & code-search across 300+ languages built on tree-sitter: symbols, references, callers, and call graphs, served to AI agents over MCP.
 - Code highlighting: https://github.com/bearcove/arborium — Tree-sitter powered syntax colors.
 - Code manipulation: https://github.com/mizlan/iswap.nvim — swap nodes in NeoVim.
 - Code manipulation: https://github.com/nvim-treesitter/nvim-treesitter-textobjects — text objects from syntax nodes.
