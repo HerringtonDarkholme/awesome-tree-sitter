@@ -48,6 +48,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Lapce: https://lapce.dev/ — fast code editor with Tree-sitter highlighting.
 - Monaco: https://github.com/Menci/monaco-tree-sitter — Tree-sitter for the Monaco editor.
 - NeoVim: https://github.com/nvim-treesitter/nvim-treesitter — Treesitter core (docs: https://neovim.io/doc/user/treesitter.html).
+- Notepad++: https://github.com/Thorium/NppTreeSitter — Tree-sitter highlighting, folding and code navigation plugin.
 - Pulsar: https://pulsar-edit.dev/ — Atom community fork with Tree-sitter support.
 - Zed: https://zed.dev/ — collaborative editor built on Tree-sitter.
 
