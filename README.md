@@ -40,6 +40,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Rust: https://docs.rs/tree-sitter — Rust crate for parsers.
 - Python: https://github.com/tree-sitter/py-tree-sitter — Python bindings.
 - Go: https://github.com/smacker/go-tree-sitter — Go bindings.
+- Multi-language pack: https://github.com/xberg-io/tree-sitter-language-pack — 300+ pre-built grammars with unified bindings for Python, Node.js, Rust, Go, Java, Ruby, PHP, C#, and more.
 
 ## Editors
 - Emacs: https://emacs-tree-sitter.github.io/ — Tree-sitter integration and modes.
@@ -47,6 +48,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Lapce: https://lapce.dev/ — fast code editor with Tree-sitter highlighting.
 - Monaco: https://github.com/Menci/monaco-tree-sitter — Tree-sitter for the Monaco editor.
 - NeoVim: https://github.com/nvim-treesitter/nvim-treesitter — Treesitter core (docs: https://neovim.io/doc/user/treesitter.html).
+- Notepad++: https://github.com/Thorium/NppTreeSitter — Tree-sitter highlighting, folding and code navigation plugin.
 - Pulsar: https://pulsar-edit.dev/ — Atom community fork with Tree-sitter support.
 - Zed: https://zed.dev/ — collaborative editor built on Tree-sitter.
 
@@ -56,6 +58,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Analysis / navigation: https://github.com/bstee615/tree-climber — structural code analysis.
 - Analysis / navigation: https://github.com/zizmorcore/zizmor — static analysis via Tree-sitter.
 - Analysis / navigation: https://github.com/Goldziher/basemind — Code-map & code-search across 300+ languages built on tree-sitter: symbols, references, callers, and call graphs, served to AI agents over MCP.
+- Analysis / navigation: https://github.com/panbanda/omen — code-health analysis (complexity, tech debt, hotspots, clones) via Tree-sitter.
 - Code highlighting: https://github.com/bearcove/arborium — Tree-sitter powered syntax colors.
 - Code manipulation: https://github.com/mizlan/iswap.nvim — swap nodes in NeoVim.
 - Code manipulation: https://github.com/nvim-treesitter/nvim-treesitter-textobjects — text objects from syntax nodes.
@@ -63,9 +66,11 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Code manipulation: https://github.com/haritkapadia/ts-movement — navigate code by syntax units.
 - Code manipulation: https://github.com/junyi-hou/tree-sitter-fold — folding driven by parse trees.
 - Code manipulation: https://github.com/ethan-leba/tree-edit/ — structural editing via Tree-sitter.
+- Code manipulation: https://github.com/Goldziher/uncomment — strip comments from source across 30+ languages via Tree-sitter queries.
 - Conflict merge: https://mergiraf.org/ — semantic merge tool.
 - Diff: https://difftastic.wilfred.me.uk/ — syntax-aware diff viewer.
 - Diff: https://github.com/afnanenayet/diffsitter — Tree-sitter based diffing.
+- Diff: https://github.com/sshah03/perspica — semantic diff for code review: names each change, sets mechanical noise aside, and orders changes by call flow.
 - Documentation: https://github.com/sourcegraph/doctree — docs explorer using parse trees.
 - Formatting: https://topiary.tweag.io/ — formatter built on Tree-sitter grammars.
 - Graphs and relations: https://github.com/tree-sitter/tree-sitter-graph — graph queries over syntax trees.
