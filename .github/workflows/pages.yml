@@ -1,0 +1,42 @@
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - site/**
+      - .github/workflows/pages.yml
+  schedule:
+    - cron: "17 6 * * 1" # weekly, to refresh GitHub star counts
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0 # full history, for the README's "updated" date
+      - uses: actions/configure-pages@v5
+      - name: Build site from README.md
+        run: node site/build.mjs _site
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
