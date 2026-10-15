@@ -71,6 +71,7 @@ Tree-sitter is an incremental parsing system that produces concrete syntax trees
 - Diff: https://difftastic.wilfred.me.uk/ — syntax-aware diff viewer.
 - Diff: https://github.com/afnanenayet/diffsitter — Tree-sitter based diffing.
 - Diff: https://github.com/sshah03/perspica — semantic diff for code review: names each change, sets mechanical noise aside, and orders changes by call flow.
+- Diff: https://github.com/naqerl/citydiff — structural diff over a commit range, drawn as a 3D city of packages, declarations and calls.
 - Documentation: https://github.com/sourcegraph/doctree — docs explorer using parse trees.
 - Formatting: https://topiary.tweag.io/ — formatter built on Tree-sitter grammars.
 - Graphs and relations: https://github.com/tree-sitter/tree-sitter-graph — graph queries over syntax trees.
